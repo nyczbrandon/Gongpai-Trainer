@@ -1,6 +1,6 @@
-If you're looking to contribute, translations or otherwise, please see the [contributing guidelines](https://github.com/Euophrys/Riichi-Trainer/blob/develop/CONTRIBUTING.md) for instructions.
+If you're looking to contribute, translations or otherwise, please see the [contributing guidelines](https://github.com/nyczbrandon/Gongpai-Trainer/blob/develop/CONTRIBUTING.md) for instructions.
 
-This is a collection of tools designed to improve the play of Riichi Mahjong players. It includes an efficiency trainer to help players identify the best tile to discard, a replay analyzer to check the efficiency (and safety, if relevant) of a player's discards, an all-last trainer to assist with comebacks, and a few random utilities.
+This is a collection of tools designed to improve the play of Gongpai Mahjong players. It includes an efficiency trainer to help players identify the best tile to discard, a replay analyzer to check the efficiency (and safety, if relevant) of a player's discards, an all-last trainer to assist with comebacks, and a few random utilities.
 
 When referring to efficiency here, we're referring to ukeire, which is the tile acceptance of the hand in the present. There's no look-ahead for future efficiency. Ukeire is an easily measurable thing, and playing towards ukeire is sufficient for many players when combined with adequate defensive play. These tools are primarily aimed at people below Tokujou on Tenhou, and most Mahjong Soul players.
 
